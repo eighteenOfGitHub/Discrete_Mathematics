@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ShortestPath - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPF96D.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/ShortestPath.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"H:\离散数学\实验\程序最终版\最短路径\最短路径实验-(dijkstra)\ShortestPathDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPF96D.tmp" 
+<h3>Output Window</h3>
+Compiling...
+ShortestPathDlg.cpp
+H:\离散数学\实验\程序最终版\最短路径\最短路径实验-(dijkstra)\ShortestPathDlg.cpp(254) : warning C4101: 'S' : unreferenced local variable
+        c:\program files\microsoft visual studio\vc98\include\xstring(583) : while compiling class-template member function 'void __thiscall Graph<int>::ShortestPath_DIJ(void)'
+H:\离散数学\实验\程序最终版\最短路径\最短路径实验-(dijkstra)\ShortestPathDlg.cpp(253) : warning C4101: 'u' : unreferenced local variable
+        c:\program files\microsoft visual studio\vc98\include\xstring(583) : while compiling class-template member function 'void __thiscall Graph<int>::ShortestPath_DIJ(void)'
+H:\离散数学\实验\程序最终版\最短路径\最短路径实验-(dijkstra)\ShortestPathDlg.cpp(253) : warning C4101: 'i' : unreferenced local variable
+        c:\program files\microsoft visual studio\vc98\include\xstring(583) : while compiling class-template member function 'void __thiscall Graph<int>::ShortestPath_DIJ(void)'
+H:\离散数学\实验\程序最终版\最短路径\最短路径实验-(dijkstra)\ShortestPathDlg.cpp(253) : warning C4101: 'j' : unreferenced local variable
+        c:\program files\microsoft visual studio\vc98\include\xstring(583) : while compiling class-template member function 'void __thiscall Graph<int>::ShortestPath_DIJ(void)'
+H:\离散数学\实验\程序最终版\最短路径\最短路径实验-(dijkstra)\ShortestPathDlg.cpp(253) : warning C4101: 'min' : unreferenced local variable
+        c:\program files\microsoft visual studio\vc98\include\xstring(583) : while compiling class-template member function 'void __thiscall Graph<int>::ShortestPath_DIJ(void)'
+
+
+
+<h3>Results</h3>
+ShortestPathDlg.obj - 0 error(s), 5 warning(s)
+</pre>
+</body>
+</html>
