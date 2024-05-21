@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\cxy\Desktop\离散数学上机实验\实验二\实验四Floyd算法\main.cpp(10,2): warning C4091: “typedef ”: 没有声明变量时忽略“AMGraph”的左侧
+  实验四Floyd算法.vcxproj -> C:\Users\cxy\Desktop\离散数学上机实验\实验二\实验四Floyd算法\x64\Debug\实验四Floyd算法.exe
